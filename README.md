@@ -34,3 +34,6 @@ Les modèles produits par BigScience, disponibles depuis le Hub huggingface (et 
 - Traduction automatique: [WMT_14](https://huggingface.co/datasets/wmt14xnli) et [Flores](https://huggingface.co/datasets/facebook/flores)
 - Résumé de textes: [wiki_lingua](https://huggingface.co/datasets/GEM/wiki_lingua)
 - Biais et stéréotypes: [Crows_pairs_multilingual](https://huggingface.co/datasets/BigScienceBiasEval/crows_pairs_multilingual) et [bias_shades](https://huggingface.co/datasets/BigScienceBiasEval/bias-shades)
+
+### Résultats d'évaluation
+Les données produites pendant le projet sont librement disponibles sur zenodo: https://zenodo.org/records/10260361.
