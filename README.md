@@ -1,5 +1,4 @@
-# Bloume
-Bloom, un modèle de langue pour le francais ?
+# Evaluer Bloom en français 
 
 ## Contexte et Objectifs
 
