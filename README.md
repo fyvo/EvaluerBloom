@@ -28,6 +28,7 @@ Les modèles produits par BigScience, disponibles depuis le Hub huggingface (et 
 
 ### Tâches et datasets
 
+- Modélisation des langues: wikitxt-fr-2022 et [Flores](https://huggingface.co/datasets/facebook/flores)
 - Classification de sentiments: [Amazon_reviews_multi](https://huggingface.co/datasets/amazon_reviews_multi)
 - Implication textuelle: [XNLI](https://huggingface.co/datasets/xnli/)
 - Entités nommées: [wikiNER_fr](https://huggingface.co/datasets/Jean-Baptiste/wikiner_fr) et [quaero](https://huggingface.co/datasets/bigbio/quaero)
