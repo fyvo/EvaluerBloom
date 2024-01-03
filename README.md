@@ -14,6 +14,21 @@ Ce projet a permis de tester BLOOM pour un large évantail de tâches standard p
 
 En parallèle nous avons pu documenter et faciliter l'utilisation de BLOOM pour en faciliter l'usage sur Jean Zay, et réaliser diverses améliorations des divers outils logiciels ([promptsource](https://github.com/bigscience-workshop/promptsource) et[lm-harness](https://github.com/EleutherAI/lm-evaluation-harness)) utilisés pour l'évaluation.
 
+## Contributeurs
+
+Ce projet a été réalisé avec le [support avancé de l'IDRIS](http://www.idris.fr/support_avance.html) sous le nom du projet "Bloume".
+
+Les participants au projet :
+
+- François Yvon (Sorbonne-Université & CNRS, ISIR)
+- Rachel Bawden (Inria Paris)
+- Aurélie Névéol (Université Paris-Saclay & CNRS, LISN)
+- Marco Naguib (Université Paris-Saclay & CNRS, LISN)
+- Hatim Bourfoune (CNRS, IDRIS)
+- Bertand Cabot (CNRS, IDRIS)
+- Nathan Cassereau (CNRS, IDRIS)
+- Pierre Cornette (CNRS, IDRIS)
+
 ## Ressources
 
 ### Modèles
