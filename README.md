@@ -53,3 +53,10 @@ Les modèles produits par BigScience, disponibles depuis le Hub huggingface (et 
 
 ### Résultats d'évaluation
 Les données produites pendant le projet sont librement disponibles sur zenodo: https://zenodo.org/records/10260361.
+
+### Publication
+L'ensemble de ce travail est décrit dans la publication suivante:
+
+Rachel Bawden, Hatim Bourfoune, Bertrand Cabot, Nathan Cassereau, Pierre Cornette, Marco Naguib, Aurélie Névéol et François Yvon. [Les modèles Bloom pour le traitement automatique de la langue française](https://hal.science/hal-04435371). Rapport Technique, 2024. ⟨hal-04435371⟩
+
+
