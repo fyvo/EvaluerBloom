@@ -59,4 +59,17 @@ L'ensemble de ce travail est décrit dans la publication suivante:
 
 Rachel Bawden, Hatim Bourfoune, Bertrand Cabot, Nathan Cassereau, Pierre Cornette, Marco Naguib, Aurélie Névéol et François Yvon. [Les modèles Bloom pour le traitement automatique de la langue française](https://hal.science/hal-04435371). Rapport Technique, 2024. ⟨hal-04435371⟩
 
+```
+@misc{bawden:hal-04435371,
+  TITLE = {{Les mod{\`e}les Bloom pour le traitement automatique de la langue fran{\c c}aise}},
+  AUTHOR = {Bawden, Rachel and Bourfoune, Hatim and Cabot, Bertrand and Cassereau, Nathan and Cornette, Pierre and Naguib, Marco and N{\'e}v{\'e}ol, Aur{\'e}lie and Yvon, Fran{\c c}ois},
+  URL = {https://hal.science/hal-04435371},
+  NOTE = {working paper or preprint},
+  YEAR = {2024},
+  MONTH = {Feb},
+  HAL_ID = {hal-04435371},
+  HAL_VERSION = {v1},
+}
+```
+
 
